@@ -11,7 +11,7 @@
 
 - 🌱 Estou em Constante aprendizado com **Frameworks, linguagens de programmação e projetos**
 
-- 📫 Pode falar comigo aqui pelo meu email oh ---> **leomoussal@hotmail.com**
+- 📫 Pode falar comigo aqui pelo meu email oh: **leomoussal@hotmail.com**
 
 - 📄 Saiba sobre minhas experiencias [https://leonardomoussallem.github.io/Portifolio_Projetos/](https://leonardomoussallem.github.io/Portifolio_Projetos/)
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/leomoussallem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leomoussallem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leonardomoussallem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardomoussallem" height="30" width="40" />
-<a href="https://instagram.com/leonardomoussallem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leomoussallem" height="30" width="40" /></a>
+<a href="https://instagram.com/leonardomoussallem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leomoussallem" height="30" width="40" />
 </a>
 </p>
 
