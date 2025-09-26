@@ -7,15 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/leomoussallem" target="blank"><img src="https://img.shields.io/twitter/follow/leomoussallem?logo=twitter&style=for-the-badge" alt="leomoussallem" /></a> </p>
 
-- 🔭 Eu estou atualmente trabalhando como **Vice presidente da Bits Jr.**
+- 🔭 Eu estou atualmente trabalhando como **Desenvolvedor web e mobile.**
 
 - 🌱 Estou em Constante aprendizado com **Frameworks, linguagens de programmação e projetos**
 
-- 📫 Pode falar comigo aqui pelo meu email oh: **leomoussal@hotmail.com**
+- 📫 Pode falar comigo aqui pelo meu email o: **leonardomoussallem@hotmail.com**
 
-- 📄 Saiba sobre minhas experiencias [https://leonardomoussallem.github.io/Portifolio_Projetos/](https://leonardomoussallem.github.io/Portifolio_Projetos/)
-
-- ⚡ Fato Engraçado **Eu gosto de Gatos e tenho 3 ah e eu tenho uma lojinha de suplementos :D**
 
 <h3 align="left">Segue la que eu sigo de volta uhul:</h3>
 <p align="left">
