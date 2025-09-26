@@ -1,6 +1,6 @@
 ![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/df1wdk7-fa62d5b6-a1b2-4b2b-b407-02e737476148.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGYxd2RrNy1mYTYyZDViNi1hMWIyLTRiMmItYjQwNy0wMmU3Mzc0NzYxNDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mLCZ3Vy_z29MbBgLUgiJIocq4NNs0o-pr276Ju8hAtA)
 <h1 align="center">Ola 👋, Eu sou o Leonardo Moussallem de Avila</h1>
-<h3 align="center">Sou um desenvolvedor apaixonado por programação no Brasil</h3>
+<h3 align="center">Sou um desenvolvedor no Brasil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardomoussallem&label=Profile%20views&color=0e75b6&style=flat" alt="leonardomoussallem" /> </p>
@@ -11,10 +11,10 @@
 
 - 🌱 Estou em Constante aprendizado com **Frameworks, linguagens de programmação e projetos**
 
-- 📫 Pode falar comigo aqui pelo meu email o: **leonardomoussallem@hotmail.com**
+- 📫 Pode falar comigo aqui pelo meu email: **leonardomoussallem@hotmail.com**
 
 
-<h3 align="left">Segue la que eu sigo de volta uhul:</h3>
+<h3 align="left">Segue la que eu sigo de volta:</h3>
 <p align="left">
 <a href="https://twitter.com/leomoussallem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leomoussallem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leonardo-moussallem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardomoussallem" height="30" width="40" />
